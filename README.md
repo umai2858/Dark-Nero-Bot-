@@ -4,12 +4,12 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 ```
 {
-  "SESSION_ID": "ID",
-  "OWNER_NUMBER": "94774071805",
-  "OWNER_NAME": "kaveesha",
+  "SESSION_ID": "Dark-Nero;;;AmuseTempted",
+  "OWNER_NUMBER": "923330007317",
+  "OWNER_NAME": "ғᷜᴀͥʀᷡᴏᷛᴏǫᴢᷩᴀᷧᴋᷞʜⷪᴍⷭɪⷩ᳡🇦🇪᭄",
   "OPENAI_API_KEY": "null",
   "MONGODB_URI": "mongodb://mongo:Kx3SgXwvW4AkhXZQMDwx@containers-us-west-48.railway.app:5828",
-  "PACK_INFO": "Dark;Nero",
+  "PACK_INFO": "ғᷜᴀͥʀᷡᴏᷛᴏǫᴢᷩᴀᷧᴋᷞʜⷪᴍⷭɪⷩ᳡🇦🇪᭄",
   "PREFIX": ".",
   "AUTO_REACTION": false,
   "READ_MESSAGE" : true,
